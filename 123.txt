@@ -1,3 +1,5 @@
 first pracitce
 int a=50
 printf("%d"\n,&a) 
+
+second pratical updata
